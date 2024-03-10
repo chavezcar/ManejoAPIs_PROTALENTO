@@ -1,4 +1,4 @@
-# Consumo de de APIs - Ejercicio Práctico PROTALENTO.
+# Consumo de APIs - Ejercicio Práctico PROTALENTO.
 
 > ### Construcción de la solución para el laboratorio propuesto.
 
